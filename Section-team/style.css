@@ -9,7 +9,7 @@ body {
 .team-section {
   width: 980px;
   height: 700px;
-  margin: auto;
+  margin: 20px auto;
   padding: 20px;
   box-sizing: border-box;
   background-color: rgba(25, 25, 25, 0.1);
