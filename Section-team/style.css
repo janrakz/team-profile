@@ -5,12 +5,12 @@ body {
   font-family: 'Nunito Sans', sans-serif;
 }
 .team-section {
-  width: 980px;
+  width: 1920px;
   height: 650px;
   margin: auto;
   padding: 20px;
   box-sizing: border-box;
-  background-color: rgba(25, 25, 25, 0.2);
+  background-color: rgba(25, 25, 25, 0.1);
   position: relative;
   color: #191919;
 }
@@ -59,7 +59,7 @@ body {
 .team-owner .role {
   font-weight: bold;
   font-size: 14px;
-  color: #a0522d;
+  color: #cab137;
   margin-bottom: 5px;
 }
 .team-owner .bio {
