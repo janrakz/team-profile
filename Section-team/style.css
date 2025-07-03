@@ -3,6 +3,8 @@ body {
   margin: 0;
   background: #f9f9f9;
   font-family: 'Nunito Sans', sans-serif;
+  width: 980px;
+  height: 650px;
 }
 .team-section {
   width: 980px;
