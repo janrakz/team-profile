@@ -116,7 +116,7 @@ body {
   margin-bottom: 4px;
   font-family: 'Nunito Sans', sans-serif;
   color: #cab137;
-  -webkit-text-stroke: 0.4px rgba(0,0,0,0.3);
+  -webkit-text-stroke: 0.4px rgba(0,0,0,0.1);
 }
 .member .specialties span {
   background: #eee;
